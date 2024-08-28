@@ -1,0 +1,14 @@
+E:\hoctap\timkytu\bin\Debug\net8.0\timkytu.exe
+E:\hoctap\timkytu\bin\Debug\net8.0\timkytu.deps.json
+E:\hoctap\timkytu\bin\Debug\net8.0\timkytu.runtimeconfig.json
+E:\hoctap\timkytu\bin\Debug\net8.0\timkytu.dll
+E:\hoctap\timkytu\bin\Debug\net8.0\timkytu.pdb
+E:\hoctap\timkytu\obj\Debug\net8.0\timkytu.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoctap\timkytu\obj\Debug\net8.0\timkytu.AssemblyInfoInputs.cache
+E:\hoctap\timkytu\obj\Debug\net8.0\timkytu.AssemblyInfo.cs
+E:\hoctap\timkytu\obj\Debug\net8.0\timkytu.csproj.CoreCompileInputs.cache
+E:\hoctap\timkytu\obj\Debug\net8.0\timkytu.dll
+E:\hoctap\timkytu\obj\Debug\net8.0\refint\timkytu.dll
+E:\hoctap\timkytu\obj\Debug\net8.0\timkytu.pdb
+E:\hoctap\timkytu\obj\Debug\net8.0\timkytu.genruntimeconfig.cache
+E:\hoctap\timkytu\obj\Debug\net8.0\ref\timkytu.dll
